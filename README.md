@@ -1,5 +1,6 @@
 # lista-de-tarefas
 Criada com React básico, como exercício do curso de JavaScript.
+Os dados (tarefas) são salvos no localStorage.
 
 ## Screenshots
 <div>
